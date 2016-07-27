@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(50,50,50);
+    text-align: center;
+    font-style: italic;
+    font-size: 500%;
+    font-family: "COmic Sans MS";
+}
+
+h1:hover {
+        opacity: 0.5;
+}
+
+body {
+    background-image: url('https://s-media-cache-ak0.pinimg.com/736x/dc/05/51/dc0551bebd9cc8d85cd996e19e3e87e1.jpg');
+    
+
+}
+
+.button {
+text-align: center;
+}
